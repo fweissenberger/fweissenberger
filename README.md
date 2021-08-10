@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fweissenberger or Fabe
-- 👀 I’m interested in coding that makes fun and music.
+- 👀 I’m interested in coding that makes fun and in music.
 - 🌱 I’m currently learning APEX
 - 💞️ I’m looking to collaborate on everything I found interessting.
 - 📫 How to reach me f.weissenberger@weissenberger-it.de
